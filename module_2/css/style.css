@@ -1,0 +1,40 @@
+h1{
+	text-align: center;
+}
+
+.row {
+  margin-bottom: 15px;
+  margin-left: 50px;
+}
+.row > div {
+  border: .5px solid black;
+  background-color: gray;
+  margin:5px;
+
+
+
+  }
+.chicken{
+	background-color: pink;
+    display: inline;
+    position: relative;
+    left: 250px;
+    clear: right;
+	
+}
+.beef{
+	background-color: red;
+	display: inline;
+    position: relative;
+    left: 265px;
+    clear: right;
+
+	
+}
+.sushi{
+	background-color: yellow;
+	display: inline;
+    position: relative;
+    left: 265px;
+    clear: right;
+}
